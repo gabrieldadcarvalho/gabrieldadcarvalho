@@ -1,4 +1,4 @@
-## "Hello World!!!" Eu sou Gabriel  Carvalho!!!
+## "Hello World!!!" Eu sou Gabriel  Carvalho.
 
 ⏳ | Estudante de Ciências Atuariais 
 📊 | Analista Macroeconômico da LMF-UFPB 
