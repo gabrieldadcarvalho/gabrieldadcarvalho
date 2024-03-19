@@ -7,9 +7,9 @@
 
 ## Habilidades
 - Python
+- R
 - Análise de dados
-- Estatística
-- Modelagem atuarial
+- Análise atuarial
 - Mercado financeiro
 
 ## Contato
