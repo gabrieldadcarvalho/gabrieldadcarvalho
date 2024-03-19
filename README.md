@@ -1,7 +1,17 @@
-## "Hello World!!!" Eu sou Gabriel  Carvalho.
+# Gabriel Carvalho
 
-🎓 | Universidade Federal de Pernambuco
+## Sobre mim
+🎓 Estudante de Ciências Atuariais na Universidade Federal de Pernambuco (UFPE).
 
-⏳ | Estudante de Ciências Atuariais 
+⏳ Interessado em aprofundar meus conhecimentos nas áreas de finanças quantitativa.
 
-👕 | @kohuculture
+## Habilidades
+- Python
+- Análise de dados
+- Modelagem atuarial
+- Mercado financeiro
+
+## Contato
+📧 E-mail: gabrieldadcarvalho@gmail.com
+🔗 LinkedIn: [Gabriel Carvalho](https://www.linkedin.com/in/gabriel-carvalho-ab38b7209/)
+🐦 Twitter: [@gabrieldadc]([link_para_seu_perfil_twitter](https://twitter.com/gabrieldadc)https://twitter.com/gabrieldadc)
