@@ -8,6 +8,7 @@
 ## Habilidades
 - Python
 - Análise de dados
+- Estatística
 - Modelagem atuarial
 - Mercado financeiro
 
