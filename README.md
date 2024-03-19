@@ -14,4 +14,4 @@
 ## Contato
 📧 E-mail: gabrieldadcarvalho@gmail.com
 🔗 LinkedIn: [Gabriel Carvalho](https://www.linkedin.com/in/gabriel-carvalho-ab38b7209/)
-🐦 Twitter: [@gabrieldadc]([link_para_seu_perfil_twitter](https://twitter.com/gabrieldadc)https://twitter.com/gabrieldadc)
+🐦 Twitter: [@gabrieldadc](link_para_seu_perfil_twitter](https://twitter.com/gabrieldadc)https://twitter.com/gabrieldadc)
