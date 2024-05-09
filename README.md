@@ -1,68 +1,20 @@
+# Gabriel Carvalho
 
-```
-<title>Gabriel Carvalho</title> <style> body { font-family: Arial, sans-serif; margin: 0; padding: 0; background-color: #f4f4f4; }
-    .container {
-        max-width: 800px;
-        margin: auto;
-        padding: 20px;
-        background-color: #fff;
-        border-radius: 8px;
-        box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
-    }
+## Sobre mim
+🎓 Estudante de **Ciências Atuariais** na **Universidade Federal de Pernambuco (UFPE)**.
 
-    h1 {
-        color: #333;
-        margin-bottom: 20px;
-    }
+⏳ Interessado em aprofundar meus conhecimentos nas áreas de **finanças quantitativas**.
 
-    p {
-        color: #666;
-        margin-bottom: 20px;
-    }
+## Habilidades
+| | |
+|---|---|
+| **Python** | Desenvolvimento de scripts e análise de dados. |
+| **R** | Modelagem estatística e visualização de dados. |
+| **Análise de Dados** | Extração de insights e tomada de decisões baseada em dados. |
+| **Análise Atuarial** | Avaliação de riscos e projeção de tendências futuras. |
+| **Mercado Financeiro** | Compreensão das dinâmicas do mercado e investimentos. |
 
-    .skills ul {
-        list-style-type: none;
-        padding: 0;
-    }
-
-    .skills li {
-        margin-bottom: 10px;
-    }
-
-    .contact a {
-        display: block;
-        color: #007bff;
-        text-decoration: none;
-        margin-bottom: 10px;
-    }
-
-    .contact a:hover {
-        text-decoration: underline;
-    }
-</style>
-Gabriel Carvalho
-Sobre mim
-🎓 Estudante de Ciências Atuariais na Universidade Federal de Pernambuco (UFPE).
-
-⏳ Interessado em aprofundar meus conhecimentos nas áreas de finanças quantitativa.
-
-    <h2>Habilidades</h2>
-    <div class="skills">
-        <ul>
-            <li>Python</li>
-            <li>R</li>
-            <li>Análise de dados</li>
-            <li>Análise atuarial</li>
-            <li>Mercado financeiro</li>
-        </ul>
-    </div>
-
-    <h2>Contato</h2>
-    <div class="contact">
-        <a href="mailto:gabrieldadcarvalho@gmail.com">📧 E-mail: gabrieldadcarvalho@gmail.com</a>
-        <a href="https://www.linkedin.com/in/gabriel-carvalho-ab38b7209/">🔗 LinkedIn: Gabriel Carvalho</a>
-        <a href="https://twitter.com/gabrieldadc">🐦 Twitter: @gabrieldadc</a>
-    </div>
-</div>
-
-```
+## Contato
+- 📧 E-mail: gabrieldadcarvalho@gmail.com
+- 🔗 LinkedIn: Gabriel Carvalho
+- 🐦 Twitter: @gabrieldadc
