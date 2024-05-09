@@ -15,6 +15,6 @@
 | **Mercado Financeiro** | Compreensão das dinâmicas do mercado e investimentos. |
 
 ## Contato
-- 📧 E-mail: gabrieldadcarvalho@gmail.com
-- 🔗 LinkedIn: Gabriel Carvalho
-- 🐦 Twitter: @gabrieldadc
+- 📧 E-mail: [gabrieldadcarvalho@gmail.com](mailto:gabrieldadcarvalho@gmail.com)
+- 🔗 LinkedIn: [Gabriel Carvalho](https://www.linkedin.com/in/gabriel-carvalho-ab38b7209/)
+- 🐦 Twitter:[@gabrieldadc](https://twitter.com/gabrieldadc)
