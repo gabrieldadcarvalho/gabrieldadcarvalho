@@ -1,8 +1,7 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="pt-br">
 <head>
     <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Gabriel Carvalho</title>
     <style>
         body {
@@ -58,6 +57,7 @@
         <h2>Sobre mim</h2>
         <p>🎓 Estudante de Ciências Atuariais na Universidade Federal de Pernambuco (UFPE).</p>
         <p>⏳ Interessado em aprofundar meus conhecimentos nas áreas de finanças quantitativa.</p>
+
         <h2>Habilidades</h2>
         <div class="skills">
             <ul>
@@ -68,6 +68,7 @@
                 <li>Mercado financeiro</li>
             </ul>
         </div>
+
         <h2>Contato</h2>
         <div class="contact">
             <a href="mailto:gabrieldadcarvalho@gmail.com">📧 E-mail: gabrieldadcarvalho@gmail.com</a>
