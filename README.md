@@ -17,7 +17,7 @@
 ## Projetos
 | | |
 |---|---|
-| **[Liga - UFRN](https://ligaufrn.streamlit.app/))** | Desenvolvimento de app web aplicado a finanças. |
+| **[Liga - UFRN](https://ligaufrn.streamlit.app/)** | Desenvolvimento de app web aplicado a finanças. |
 | **[Site](https://gabrieldadcarvalho.streamlit.app/)** | Desenvolvimento de app web. |
 
 
