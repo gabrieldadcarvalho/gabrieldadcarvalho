@@ -14,6 +14,13 @@
 | **Análise Atuarial** | Avaliação de riscos e projeção de tendências futuras. |
 | **Mercado Financeiro** | Compreensão das dinâmicas do mercado e investimentos. |
 
+## Projetos
+| | |
+|---|---|
+| **[Liga - UFRN](https://ligaufrn.streamlit.app/))** | Desenvolvimento de app web aplicado a finanças. |
+| **[Site](https://gabrieldadcarvalho.streamlit.app/)** | Desenvolvimento de app web. |
+
+
 ## Contato
 - 📧 E-mail: [gabrieldadcarvalho@gmail.com](mailto:gabrieldadcarvalho@gmail.com)
 - 🔗 LinkedIn: [Gabriel Carvalho](https://www.linkedin.com/in/gabriel-carvalho-ab38b7209/)
