@@ -7,6 +7,7 @@ matemática financeira. Busco constantemente aprimorar meu
 conhecimento e habilidades tanto no âmbito acadêmico quanto no prático,
 com o objetivo de evoluir pessoalmente e profissionalmente nas áreas da
 ciência atuarial e empresarial.
+
 Além de minha formação acadêmica, tenho dedicado tempo e esforço para
 me familiarizar com ferramentas essenciais para análise e aplicação de
 dados, como o pacote Office, Python, R, Inteligência Artificial e Notion. Estas
