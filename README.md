@@ -32,7 +32,7 @@ de dados são cruciais.
 | **[Site](https://gabrieldadcarvalho.streamlit.app/)** | Desenvolvimento de app web. |
 
 
-## Contato
+## 📱 Contato
 - 📧 E-mail: [gabrieldadcarvalho@gmail.com](mailto:gabrieldadcarvalho@gmail.com)
 - 🔗 LinkedIn: [Gabriel Carvalho](https://www.linkedin.com/in/gabriel-carvalho-ab38b7209/)
 - 🐦 Twitter:[@gabrieldadc](https://twitter.com/gabrieldadc)
