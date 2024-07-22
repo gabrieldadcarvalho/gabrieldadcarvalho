@@ -1,6 +1,6 @@
 # Gabriel Carvalho
 
-## Sobre mim
+## 🧔🏾‍♂️ Sobre mim
 Como estudante de Ciências Atuariais na UFPE, nutro um profundo
 interesse nesta área que engloba probabilidade, estatística, demografia e
 matemática financeira. Busco constantemente aprimorar meu
