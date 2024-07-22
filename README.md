@@ -16,7 +16,7 @@ análises mais precisas e eficientes, bem como contribuir de forma
 significativa em ambientes profissionais onde a manipulação e interpretação
 de dados são cruciais.
 
-## Habilidades
+## 📝 Habilidades
 | | |
 |---|---|
 | **Python** | Desenvolvimento de scripts e análise de dados. |
@@ -25,7 +25,7 @@ de dados são cruciais.
 | **Análise Atuarial** | Avaliação de riscos e projeção de tendências futuras. |
 | **Mercado Financeiro** | Compreensão das dinâmicas do mercado e investimentos. |
 
-## Projetos
+## 👨🏿‍💻 Projetos
 | | |
 |---|---|
 | **[Liga - UFRN](https://ligaufrn.streamlit.app/)** | Desenvolvimento de app web aplicado a finanças. |
