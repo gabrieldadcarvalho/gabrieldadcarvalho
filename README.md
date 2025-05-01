@@ -11,7 +11,7 @@
   <a href="https://www.linkedin.com/in/gabriel-carvalho-ab38b7209/" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40"/>
   </a>
-  <a href="https://stackoverflow.com/users/gabrieldadcarvalho" target="blank">
+  <a href="https://stackoverflow.com/users/25009067" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="stackoverflow" height="30" width="40"/>
   </a>
   <a href="https://kaggle.com/gabrieldadcarvalho" target="blank">
