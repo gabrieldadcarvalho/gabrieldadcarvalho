@@ -57,6 +57,14 @@
 </p>
 
 <h3 align="left">📊 Estatísticas GitHub:</h3>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gabrieldadcarvalho&show_icons=true&locale=en&layout=compact" alt="gabrieldadcarvalho" /></p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=gabrieldadcarvalho&show_icons=true&locale=en" alt="gabrieldadcarvalho" /></p>
+<!-- Estatísticas de linguagens -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrieldadcarvalho&layout=compact&theme=default" alt="Top linguagens" />
+</p>
+
+<!-- Estatísticas gerais -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=gabrieldadcarvalho&show_icons=true&locale=pt-br&theme=default" alt="Estatísticas do GitHub" />
+</p>
+
