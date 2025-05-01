@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Gabriel Carvalho</h1>
 <h3 align="center">Um entusiasta em Ciência de Dados e Inteligência Artificial com formação em Ciências Atuariais pela UFPE</h3>
 
-- 🔭 Atualmente trabalhando em **Reciprev**
+- 🔭 Atualmente trabalhando na [**Reciprev**](https://reciprev.recife.pe.gov.br/) como desenvolvedor do app de investimento
 - 📚 Estudante de **Ciências Atuariais (UFPE)** com foco em Estatística, IA e Desenvolvimento Web
 - 🧠 Apaixonado por **modelagem estatística**, **análise preditiva** e **tecnologias abertas**
 - 🌐 Desenvolvi um [App Web Interativo](https://gabrieldadcarvalho.github.io/) com modelos aplicados em Estatística, Finanças e IA
