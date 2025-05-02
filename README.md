@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/4de1e578-5702-4874-954f-e0c93d309935)
+# 👨‍💻 Hi, i'm Gabriel D'assumpção de Carvalho
 
 I'm an Actuarial Science student at UFPE passionate about data, statistics, and intelligent systems. With a strong foundation in probability and mathematical modeling, I’ve been focusing on Artificial Intelligence, especially in applied projects that blend health, finance, and data science.
 
@@ -56,8 +56,8 @@ I'm an Actuarial Science student at UFPE passionate about data, statistics, and 
 # 📈 GitHub Stats
 
 <p align="center">
-  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrieldadcarvalho&layout=compact&theme=default" alt="Top linguagens"/>
-  <img width="45%" src="https://github-readme-stats.vercel.app/api?username=gabrieldadcarvalho&show_icons=true&locale=pt-br&theme=default" alt="Estatísticas do GitHub"/>
+  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrieldadcarvalho&layout=compact&locale=en&theme=dracula" alt="Top linguagens"/>
+  <img width="45%" src="https://github-readme-stats.vercel.app/api?username=gabrieldadcarvalho&show_icons=true&locale=en&theme=dracula" alt="Estatísticas do GitHub"/>
 </p>
 
 ---
