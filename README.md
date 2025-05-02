@@ -1,4 +1,4 @@
-# 👨‍💻 Hi, i'm Gabriel D'assumpção de Carvalho
+![image](https://github.com/user-attachments/assets/4de1e578-5702-4874-954f-e0c93d309935)
 
 I'm an Actuarial Science student at UFPE passionate about data, statistics, and intelligent systems. With a strong foundation in probability and mathematical modeling, I’ve been focusing on Artificial Intelligence, especially in applied projects that blend health, finance, and data science.
 
